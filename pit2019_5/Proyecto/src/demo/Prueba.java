@@ -10,6 +10,7 @@ public class Prueba {
 		System.out.println("Jhonny Susaya ");   
 		System.out.println("Sede Norte ");  
 		System.out.println("Piero Diaz"); 
+		System.out.println("Alonso Curi"); 
 
 	}
 }
