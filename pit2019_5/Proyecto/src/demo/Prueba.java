@@ -12,6 +12,6 @@ public class Prueba {
 		System.out.println("Piero Diaz"); 
 		System.out.println("Alonso Curi"); 
 		System.out.println("Piero Curi"); 	
-
+		System.out.println("Alonso Diaz"); 	
 	}
 }
